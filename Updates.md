@@ -15,7 +15,7 @@
 
 ### **15th January**
 - **Model Development**:
-  - Selected Random Forest Classifier for activity classification.
+  - Selected logistic Regression for activity classification.
   - Implemented a training pipeline:
     - Trained the model on `X_train` and `y_train`.
     - Tuned hyperparameters for optimal performance.
@@ -38,7 +38,7 @@
 
 - **Visualization**:
   - Plotted the confusion matrix as a heatmap.
-  - Created bar plots for class-wise performance metrics.
+
 
 - **Result Analysis**:
   - Observed consistent test accuracy (>90%) with minimal misclassifications.
