@@ -2,7 +2,7 @@
   - Uploaded project files:
     - Jupyter Notebook (`Human_act_recog.ipynb`).
     - `UPDATES.md` file for progress tracking.
-    - 'UCI HAR Dataset' dataset used.
+    
 
 ### **14th January**
 - **Dataset Exploration**:
